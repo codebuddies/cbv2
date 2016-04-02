@@ -1,0 +1,12 @@
+<template name="hangout_list">
+  {{#if Template.subscriptionsReady}}
+    {{#each hangouts}}
+      {{> hangout_item}}
+
+    {{else}}
+        <p>No hangouts</p>
+    {{/each}}
+  {{else}}
+      <p>loading...</p>
+  {{/if}}
+</template>
