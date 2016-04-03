@@ -3,6 +3,7 @@ accounts-password@1.1.6
 aldeed:collection2@2.7.0
 aldeed:simple-schema@1.5.3
 allow-deny@1.0.2
+arillo:flow-router-helpers@0.5.1
 autoupdate@1.2.6
 babel-compiler@6.5.2
 babel-runtime@0.1.6
@@ -54,6 +55,8 @@ meteorspark:util@0.2.0
 minifier-css@1.1.9
 minifier-js@1.1.9
 minimongo@1.0.12
+mizzao:timesync@0.3.4
+mizzao:user-status@0.6.6
 mobile-experience@1.0.2
 mobile-status-bar@1.0.10
 modules@0.5.1
@@ -98,3 +101,4 @@ underscore@1.0.6
 url@1.0.7
 webapp@1.2.6
 webapp-hashing@1.0.7
+zimme:active-route@2.3.2
